@@ -7,16 +7,16 @@ in there you'll see:
      
 [![Linkedin Badge](https://img.shields.io/badge/-GidonAvziz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gidon-avziz-19764b104/)
      
-     ```javascript
-      Person Gidon = {
-        Surname: ["Avziz"], 
-        Code: [Java, Ptython, C++ , C, JavaScript],
-        Education :[Third year Computer-Science student ],
-        Age: 28,
-        From: Hod-Hasharon,
-        Goal: Find a challenging job!
-      }
-      ```
+```javascript
+ Person Gidon = {
+   Surname: ["Avziz"], 
+   Code: [Java, Ptython, C++ , C, JavaScript],
+   Education :[Third year Computer-Science student ],
+   Age: 28,
+   From: Hod-Hasharon,
+   Goal: Find a challenging job!
+ }
+ ```
 
 
 
