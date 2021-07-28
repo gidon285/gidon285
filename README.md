@@ -1,7 +1,8 @@
 
 ```java
-const Gidon = {
-  code: [Java, Ptython, C++ , C, JavaScript],
+Person Gidon = {
+  Surname: ["Avziz"], 
+  Code: [Java, Ptython, C++ , C, JavaScript],
   Education :[Third year CS],
   Age: 28,
   From: Hod-Hasharon,
