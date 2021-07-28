@@ -5,7 +5,7 @@ in there you'll see:
 - An multi-threaded implementation of a directed weighted graph which is being used to participate in a Pokemon catching game, including GUI (the game plays itself,OOP).
 - An implementation of a packet sniff and spoof using C programing ( as part of the Network and communication course, a concluding project).
      
-[![Linkedin Badge](https://img.shields.io/badge/-zmcx16-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gidon-avziz-19764b104/)
+[![Linkedin Badge](https://img.shields.io/badge/-GidonAvziz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gidon-avziz-19764b104/)
      
      ```java
       Person Gidon = {
