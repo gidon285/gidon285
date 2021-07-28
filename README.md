@@ -7,7 +7,7 @@ in there you'll see:
      
 [![Linkedin Badge](https://img.shields.io/badge/-GidonAvziz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gidon-avziz-19764b104/)
      
-     ```java
+     ```javascript
       Person Gidon = {
         Surname: ["Avziz"], 
         Code: [Java, Ptython, C++ , C, JavaScript],
