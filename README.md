@@ -22,7 +22,6 @@ in there you'll see:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gidon285&layout=compact&theme=highcontrast)](https://github.com/gidon285/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gidon285&theme=highcontrast)](https://github.com/gidon285/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gidon285)](https://github.com/gidon285)
 
