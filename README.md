@@ -9,12 +9,12 @@ in there you'll see:
      
 ```javascript
  Person Gidon = {
-   Surname: ["Avziz"], 
-   Code: [Java, Ptython, C++ , C, JavaScript],
-   Education :[Third year Computer-Science student ],
-   Age: 28,
-   From: Hod-Hasharon,
-   Goal: Find a challenging job!
+   "Surname": "Avziz", 
+   "Code": [Java, Ptython, C++ , C, JavaScript],
+   "Education" : "Third year Computer-Science student ",
+   "Age": 28,
+   "From": "Hod-Hasharon",
+   "Goal": "Find my first coding job!"
  }
  ```
 
